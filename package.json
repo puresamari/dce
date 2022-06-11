@@ -1,7 +1,7 @@
 {
   "name": "dce",
-  "version": "0.1.0",
-  "description": "all-in-one function for creating dom elements",
+  "version": "0.1.1",
+  "description": "DCE gives the option to create a dom element, attach it to a parent and assign multiple attributes through a function instead of individually.",
   "main": "dce.js",
   "repository": {
     "url": "https://github.com/puresamari/dce"
