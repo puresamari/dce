@@ -1,0 +1,22 @@
+{
+  "name": "dce",
+  "version": "0.1.0",
+  "description": "all-in-one function for creating dom elements",
+  "main": "dce.js",
+  "repository": {
+    "url": "https://github.com/puresamari/dce"
+  },
+  "scripts": {
+    "build": "tce"
+  },
+  "keywords": [
+    "document",
+    "create",
+    "element"
+  ],
+  "author": "Simon Rothert <puresamari@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
+}

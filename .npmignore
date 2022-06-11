@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+.git
+.git/
+.gitattributes
+.github/
+.gitmodules
+public/
+dist/
+.editorconfig
+.gitignore
+examples/
+.npmrc
+dce.ts
+package-lock.json
